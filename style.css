@@ -38,6 +38,7 @@ body{
 
 .cabecalho-menu-item:hover{
   color: rgba(236, 214, 196, 0.53);
+  cursor: pointer;
 }
 
 .conteudo{
